@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9eace85c6bc411997ff39c703ebb7dc, type: 3}
+  m_Name: FigureDatabase
+  m_EditorClassIdentifier: 
+  Forms:
+  - {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+  - {fileID: -2413806693520163455, guid: ebe73ca9363db456bacf42c025bb4847, type: 3}
+  - {fileID: 7482667652216324306, guid: 48e93eef0688c4a259cb0eddcd8661f7, type: 3}
+  Animals:
+  - {fileID: 1941945212, guid: 7b39c192d48885d4badf6e29528022f2, type: 3}
+  - {fileID: 499435050, guid: 7b39c192d48885d4badf6e29528022f2, type: 3}
+  - {fileID: -864981989, guid: 7b39c192d48885d4badf6e29528022f2, type: 3}
+  Colors:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0.69540036, b: 0, a: 1}
+  - {r: 0.10008514, g: 1, b: 0, a: 1}
